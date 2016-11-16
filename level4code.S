@@ -1,0 +1,4 @@
+lea 0x28(%esp),%ebp
+mov 0x804e104,%eax
+push $0x8048c67
+ret
